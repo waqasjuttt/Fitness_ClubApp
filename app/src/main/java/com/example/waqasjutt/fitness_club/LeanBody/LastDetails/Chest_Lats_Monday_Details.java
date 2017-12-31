@@ -17,10 +17,6 @@ import android.widget.Toast;
 
 import com.example.waqasjutt.fitness_club.R;
 
-/**
- * Created by Waqas Jutt on 10/31/2017.
- */
-
 public class Chest_Lats_Monday_Details extends Fragment {
 
     private SharedPreferences sharedPreferences;
